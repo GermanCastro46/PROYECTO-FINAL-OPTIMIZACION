@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.6.1)  28 JUN 2021 11:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.6.1)  28 JUN 2021 13:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"d:/TALLERES/OPTIMIZACION/PROYECTO_FINAL_OPTIMIZACION/Proyecto final German Castro.tex"
-(d:/TALLERES/OPTIMIZACION/PROYECTO_FINAL_OPTIMIZACION/Proyecto final German Castro.tex
+**"d:/TALLERES/OPTIMIZACION/PROYECTO-FINAL-OPTIMIZACION/PROYECTO_FINAL_OPTIMIZACION/Proyecto final German Castro.tex"
+(d:/TALLERES/OPTIMIZACION/PROYECTO-FINAL-OPTIMIZACION/PROYECTO_FINAL_OPTIMIZACION/Proyecto final German Castro.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18> (d:/PROGRAMAS/LATEX/texlive/2021/texmf-dist/tex/latex/IEEEtran/IEEEtran.cls
 Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
@@ -221,7 +221,7 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count276
 \l__pdf_internal_box=\box51
-) (d:/TALLERES/OPTIMIZACION/PROYECTO_FINAL_OPTIMIZACION/Proyecto final German Castro.aux)
+) (d:/TALLERES/OPTIMIZACION/PROYECTO-FINAL-OPTIMIZACION/PROYECTO_FINAL_OPTIMIZACION/Proyecto final German Castro.aux)
 \openout1 = `"Proyecto final German Castro.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
@@ -266,7 +266,10 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 28.
  (d:/PROGRAMAS/LATEX/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1{d:/PROGRAMAS/LATEX/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1{d:/PROGRAMAS/LATEX/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
@@ -283,17 +286,17 @@ Before submitting the final camera ready copy, remember to:
 
 [2
 
-] (d:/TALLERES/OPTIMIZACION/PROYECTO_FINAL_OPTIMIZACION/Proyecto final German Castro.aux) ) 
+] (d:/TALLERES/OPTIMIZACION/PROYECTO-FINAL-OPTIMIZACION/PROYECTO_FINAL_OPTIMIZACION/Proyecto final German Castro.aux) ) 
 Here is how much of TeX's memory you used:
  3922 strings out of 478994
- 58095 string characters out of 5854160
- 361046 words of memory out of 5000000
+ 58347 string characters out of 5854160
+ 360046 words of memory out of 5000000
  21370 multiletter control sequences out of 15000+600000
  445673 words of font info for 108 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,12n,74p,397b,288s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,12n,74p,425b,288s stack positions out of 5000i,500n,10000p,200000b,80000s
 {d:/PROGRAMAS/LATEX/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}<d:/PROGRAMAS/LATEX/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/PROGRAMAS/LATEX/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/PROGRAMAS/LATEX/texlive/2021/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><d:/PROGRAMAS/LATEX/texlive/2021/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><d:/PROGRAMAS/LATEX/texlive/2021/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><d:/PROGRAMAS/LATEX/texlive/2021/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "d:/TALLERES/OPTIMIZACION/PROYECTO_FINAL_OPTIMIZACION/Proyecto final German Castro.pdf" (2 pages, 78361 bytes).
+Output written on "d:/TALLERES/OPTIMIZACION/PROYECTO-FINAL-OPTIMIZACION/PROYECTO_FINAL_OPTIMIZACION/Proyecto final German Castro.pdf" (2 pages, 78853 bytes).
 PDF statistics:
  36 PDF objects out of 1000 (max. 8388607)
  25 compressed objects within 1 object stream

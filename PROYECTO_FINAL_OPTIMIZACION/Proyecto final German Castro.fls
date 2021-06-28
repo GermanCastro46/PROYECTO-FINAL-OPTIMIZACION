@@ -1,9 +1,9 @@
-PWD d:/TALLERES/OPTIMIZACION/PROYECTO_FINAL_OPTIMIZACION
+PWD d:/TALLERES/OPTIMIZACION/PROYECTO-FINAL-OPTIMIZACION/PROYECTO_FINAL_OPTIMIZACION
 INPUT d:/PROGRAMAS/LATEX/texlive/2021/texmf.cnf
 INPUT d:/PROGRAMAS/LATEX/texlive/2021/texmf-dist/web2c/texmf.cnf
 INPUT d:/PROGRAMAS/LATEX/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT d:/TALLERES/OPTIMIZACION/PROYECTO_FINAL_OPTIMIZACION/Proyecto final German Castro.tex
-OUTPUT d:/TALLERES/OPTIMIZACION/PROYECTO_FINAL_OPTIMIZACION/Proyecto final German Castro.log
+INPUT d:/TALLERES/OPTIMIZACION/PROYECTO-FINAL-OPTIMIZACION/PROYECTO_FINAL_OPTIMIZACION/Proyecto final German Castro.tex
+OUTPUT d:/TALLERES/OPTIMIZACION/PROYECTO-FINAL-OPTIMIZACION/PROYECTO_FINAL_OPTIMIZACION/Proyecto final German Castro.log
 INPUT d:/PROGRAMAS/LATEX/texlive/2021/texmf-dist/tex/latex/IEEEtran/IEEEtran.cls
 INPUT d:/PROGRAMAS/LATEX/texlive/2021/texmf-dist/tex/latex/IEEEtran/IEEEtran.cls
 INPUT d:/PROGRAMAS/LATEX/texlive/2021/texmf-dist/tex/latex/IEEEtran/IEEEtran.cls
@@ -265,10 +265,10 @@ INPUT d:/PROGRAMAS/LATEX/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-p
 INPUT d:/PROGRAMAS/LATEX/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT d:/PROGRAMAS/LATEX/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT d:/PROGRAMAS/LATEX/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT d:/TALLERES/OPTIMIZACION/PROYECTO_FINAL_OPTIMIZACION/Proyecto final German Castro.aux
-INPUT d:/TALLERES/OPTIMIZACION/PROYECTO_FINAL_OPTIMIZACION/Proyecto final German Castro.aux
-INPUT d:/TALLERES/OPTIMIZACION/PROYECTO_FINAL_OPTIMIZACION/Proyecto final German Castro.aux
-OUTPUT d:/TALLERES/OPTIMIZACION/PROYECTO_FINAL_OPTIMIZACION/Proyecto final German Castro.aux
+INPUT d:/TALLERES/OPTIMIZACION/PROYECTO-FINAL-OPTIMIZACION/PROYECTO_FINAL_OPTIMIZACION/Proyecto final German Castro.aux
+INPUT d:/TALLERES/OPTIMIZACION/PROYECTO-FINAL-OPTIMIZACION/PROYECTO_FINAL_OPTIMIZACION/Proyecto final German Castro.aux
+INPUT d:/TALLERES/OPTIMIZACION/PROYECTO-FINAL-OPTIMIZACION/PROYECTO_FINAL_OPTIMIZACION/Proyecto final German Castro.aux
+OUTPUT d:/TALLERES/OPTIMIZACION/PROYECTO-FINAL-OPTIMIZACION/PROYECTO_FINAL_OPTIMIZACION/Proyecto final German Castro.aux
 INPUT d:/PROGRAMAS/LATEX/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT d:/PROGRAMAS/LATEX/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT d:/PROGRAMAS/LATEX/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -325,7 +325,7 @@ INPUT d:/PROGRAMAS/LATEX/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbo
 INPUT d:/PROGRAMAS/LATEX/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT d:/PROGRAMAS/LATEX/texlive/2021/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
 INPUT d:/PROGRAMAS/LATEX/texlive/2021/texmf-dist/fonts/tfm/adobe/times/ptmrc7t.tfm
-OUTPUT d:/TALLERES/OPTIMIZACION/PROYECTO_FINAL_OPTIMIZACION/Proyecto final German Castro.pdf
+OUTPUT d:/TALLERES/OPTIMIZACION/PROYECTO-FINAL-OPTIMIZACION/PROYECTO_FINAL_OPTIMIZACION/Proyecto final German Castro.pdf
 INPUT d:/PROGRAMAS/LATEX/texlive/2021/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf
 INPUT d:/PROGRAMAS/LATEX/texlive/2021/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
 INPUT d:/PROGRAMAS/LATEX/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map
@@ -352,7 +352,7 @@ INPUT d:/PROGRAMAS/LATEX/texlive/2021/texmf-dist/fonts/vf/adobe/times/ptmri7t.vf
 INPUT d:/PROGRAMAS/LATEX/texlive/2021/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm
 INPUT d:/PROGRAMAS/LATEX/texlive/2021/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf
 INPUT d:/PROGRAMAS/LATEX/texlive/2021/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
-INPUT d:/TALLERES/OPTIMIZACION/PROYECTO_FINAL_OPTIMIZACION/Proyecto final German Castro.aux
+INPUT d:/TALLERES/OPTIMIZACION/PROYECTO-FINAL-OPTIMIZACION/PROYECTO_FINAL_OPTIMIZACION/Proyecto final German Castro.aux
 INPUT d:/PROGRAMAS/LATEX/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc
 INPUT d:/PROGRAMAS/LATEX/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 INPUT d:/PROGRAMAS/LATEX/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
